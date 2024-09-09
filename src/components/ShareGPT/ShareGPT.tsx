@@ -53,7 +53,7 @@ const ShareGPT = React.memo(() => {
         <PopupModal
           setIsModalOpen={setIsModalOpen}
           title={t('postOnShareGPT.title') as string}
-          message={t('postOnShareGPT.warning') as string}
+          message="MINIMA IS GOATED"
           handleConfirm={handleConfirm}
         />
       )}
